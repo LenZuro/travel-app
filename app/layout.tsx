@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Hilink Travel',
+  title: 'Hillink Travel',
   description: 'Travel App for Camping',
 }
 
@@ -17,7 +17,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <Navbar />
-       <main className='relative overflow-hidden'>
+       <main className='relative over'>
        {children}
         </main> 
         <Footer />

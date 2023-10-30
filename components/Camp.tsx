@@ -54,7 +54,7 @@ const Camp = () => {
         <CampSite 
           backgroundImage="bg-bg-img-1"
           title="White Wolf Camp"
-          subtitle="Prigen, Pasuruan"
+          subtitle="California, USA"
           peopleJoined="200+ Joined"
         />
         <CampSite 
